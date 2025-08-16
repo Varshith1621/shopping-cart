@@ -150,7 +150,7 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Varshith</b>
+                                                                                                         <b>Varshith A M R</b>
 																										  <br/>Project Member<br/>
                                                                                                          <b>Reddy Sridhar K B</b>
 
