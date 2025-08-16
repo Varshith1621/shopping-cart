@@ -150,8 +150,10 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Varshith A M R</b>
-																										  <br/>Project Member<br/>
-                                                                                                         <b>Reddy Sridhar K B</b>
+                                                                                                        <b>Varshith A M R</b>
+																										<br/>Project Member<br/>
+                                                                                                        <br>Vishal Paragond Khilari</b>
+																										<br/>Project Member<br/>
+                                                                                                        <b>Reddy Sridhar K B</b>
 
 
